@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rabia-koç/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabia-koc/" height="30" width="40" /></a>
-<a href="mailto:koc_rabia@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabia-koc/" height="30" width="40" /></a>
+<a href="mailto:koc_rabia@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.6.0/icons/microsoftoutlook.svg" alt="rabia-koc/" height="30" width="40" /></a>
 <a href="https://rabia8940.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rabia-koc" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/rabiako" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rabia-koc" height="30" width="40" /></a>
 </p>
