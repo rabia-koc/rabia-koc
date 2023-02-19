@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rabia Koç</h1>
-<h3 align="center">I am a Data Science Researcher </h3>
+<h3 align="center">I am a Data Engineer </h3>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **CRM analytics, Machine Learning etc.**
+- 🌱 I’m currently learning **Big Data, MLOPS, Machine Learning etc.**
 
-- 💬 Ask me about **Python, PowerBI, SQL**
+- 💬 Ask me about **Python, PowerBI, SQL, Spark, Kafka, Linux, Docker, AWS..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
